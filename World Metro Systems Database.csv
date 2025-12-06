@@ -1,0 +1,219 @@
+Countries,City,Name,Length (km),Number of Lines,Stations,Opening (Date),Opening Ranking,World Region
+United Kingdom,London,Undeground,405,11,272,10/01/1863,#1,Western Europe
+USA,New York City,NYC Subway,399,36,472,03/07/1868,#2,North America
+USA,Chicago,Chicago L,165.4,8,145,06/06/1892,#3,North America
+Hungary,Budapest,Budapest Metro,39.7,4,52,02/05/1896,#4,Central Europe
+United Kingdom,Glasgow,Glasgow Subway,10.4,1,15,14/12/1896,#5,Northern Europe
+USA,Boston,MBTA Subway,104.8,5,147,01/09/1897,#6,North America
+France,Paris,Métro de Paris,226.9,16,308,19/07/1900,#7 ,Western Europe
+Germany,Berlin,Berlin U-Bahn,155.4,9,175,15/01/1902,#8,Central Europe
+Greece,Athens,Athens Metro,88.7,3,64,16/09/1904,#9,Southern Europe
+USA,Philadelphia,SEPTA,40.9,2,53,04/03/1907,#10,North America
+USA,New York City,PATH,22.2,4,13,25/02/1908,#11,North America
+Germany,Hamburg,Hamburg U-Bahn,106.4,4,93,15/02/1912,#12,Western Europe
+Argentina,Buenos Aires,Buenos Aires Underground,56.7,6,90,01/12/1913,#13,South America
+Spain,Madrid,Madrid Metro,293,13,328,17/10/1919,#14,Southern Europe
+Spain,Barcelona,Barcelona Metro,147.2,12,189,30/12/1924,#15,Southern Europe
+USA,New York City,Staten Island Railway,22.5,1,21,30/05/1925,#16,North America
+Japan,Tokyo,Tokyo Metro,195.1,9,180,30/12/1927,#17,Eastern Asia
+Japan,Osaka,Osaka Metro,137.8,8,133,20/05/1933,#18,Eastern Asia
+Russia,Moscow,Moscow Metro,435.7,14,250,15/05/1935,#19,Eastern Europe
+USA,Philadelphia,PATCO Speedline,22.9,1,13,07/06/1936,#20,North America
+Sweden,Stockholm,Stockholm Metro,105.7,7,100,01/10/1950,#21,Northern Europe
+Canada,Toronto,Toronto Subway,76.9,4,75,30/03/1954,#22,North America
+Italy,Rome,Rome Metro,60,3,73,09/02/1955,#23,Southern Europe
+USA,Cleveland,RTA Rapid Transit: Red Line,31,1,18,15/03/1955,#24,North America
+Russia,Saint Petersburg,Saint Petersburg Metro,124.8,5,72,15/11/1955,#25,Northern Europe
+Japan,Nagoya,Nagoya Municipal Subway,93.3,6,87,15/11/1957,#26,Eastern Asia
+Portugal,Lisbon,Lisbon Metro,44.5,4,56,29/12/1959,#27,Southern Europe
+Ukraine,Kyiv,Kyiv Metro,69.6,3,52,06/11/1960,#28,Eastern Europe
+Japan,Tokyo,Toei Subway,109,4,106,04/12/1960,#29,Eastern Asia
+Italy,Milan,Milan Metro,96.8,4,113,01/11/1964,#30,Western Europe
+Georgia,Tbilisi,Tbilisi Metro,27.3,2,23,11/01/1966,#31,Western Asia
+Norway,Oslo,Oslo Metro,85,5,101,22/05/1966,#32,Northern Europe
+Canada,Montreal,Montreal Metro,69.2,4,73,14/10/1966,#33,North America
+Azerbaijan,Baku,Baku Metro,38,3,26,06/11/1967,#34,Western Asia
+The Netherlands,Rotterdam,Rotterdam Metro,100.6,5,70,09/02/1968,#35,Western Europe
+Mexico,Mexico City,Mexico City Metro,200.9,12,195,04/09/1969,#36,Central America
+China,Beijing,Beijing Subway,783,27,456,15/01/1971,#37,Eastern Asia
+Germany,Munich,Munich U-Bahn,103.1,8,100,19/10/1971,#38,Central Europe
+Japan,Sapporo,Sapporo Municipal Subway,48,3,49,16/12/1971,#39,Eastern Asia
+Germany,Nuremberg,Nuremberg U-Bahn,38.2,3,49,01/03/1972,#40,Western Europe
+USA,San Francisco,BART,186.8,5,47,11/09/1972,#41,North America
+Japan,Yokohama,Yokohama Municipal Subway,53.4,2,42,16/12/1972,#42,Eastern Asia
+North Korea,Pyongyang,Pyongyang Metro,22.5,2,16,06/09/1973,#43,Eastern Asia
+Czechia,Prague,Prague Metro,63.1,3,61,09/05/1974,#44,Central Europe
+South Korea,Seoul,Seoul Metropolitan Subway,372.5,23,302,15/08/1974,#45,Eastern Asia
+Brazil,Sao Paulo,Sao Paulo Metro,104.4,9,91,14/09/1974,#46,South America
+France,Lyon,Lyon Metro,32.1,4,40,09/12/1974,#47,Western Europe
+Ukraine,Kharkiv,Kharkiv Metro,38.1,3,30,23/08/1975,#48,Eastern Europe
+Chile,Santiago,Santiago Metro,139.7,7,136,15/09/1975,#49,South America
+USA,Washington D.C.,Washington Metro,188,6,136,27/03/1976,#50,North America
+Austria,Vienna,Vienna U-Bahn,83.3,5,98,08/05/1976,#51,Central Europe
+Belgium,Brussels,Brussels Metro,39.9,4,59,20/09/1976,#52,Western Europe
+Japan,Kobe,Kobe Municipal Subway,38.1,3,28,13/03/1977,#53,Eastern Asia
+The Netherlands,Amsterdam,Amsterdam Metro,42.7,5,39,14/10/1977,#54,Western Europe
+Uzbekistan,Tashkent,Tashkent Metro,59.5,4,43,06/11/1977,#55,Central Asia
+France,Marseille,Marseille Metro,22.7,2,31,26/11/1977,#56,Western Europe
+Brazil,Rio de Janeiro,Rio de Janeiro Metro,58,3,41,05/03/1979,#57,South America
+USA,Atlanta,MARTA,76.6,4,38,30/06/1979,#58,North America
+China,Hong Kong,Mass Transit Railway,242.7,10,99,01/10/1979,#59,Eastern Asia
+Romania,Bucharest,Bucharest Metro,78.5,5,62,16/11/1979,#60,Eastern Europe
+Armenia,Yerevan,Yerevan Metro,13.4,1,10,07/03/1981,#61,Western Asia
+Japan,Kyoto,Kyoto Municipal Subway,31.2,2,31,29/05/1981,#62,Eastern Asia
+Japan,Fukuoka,Fukuoka City Subway,29.8,3,35,26/07/1981,#63,Eastern Asia
+Finland,Helsinki,Helsinki Metro,35,2,25,02/08/1982,#64,Northern Europe
+Venezuela,Caracas,Caracas Metro,67.2,5,52,02/01/1983,#65,South America
+France,Lille,Lille Metro,45,2,60,25/04/1983,#66,Western Europe
+USA,Baltimore,Baltimore Metro SubwayLink,24.9,1,14,21/11/1983,#67,North America
+Brazil,Porto Alegre,Porto Alegre Metro,43.8,1,22,02/03/1984,#73,South America
+USA ,Miami,Metrorail,40.1,2,23,20/05/1984,#68,North America
+Belarus,Minsk,Minsk Metro,40.8,3,33,30/06/1984,#69,Eastern Europe
+India,Kolkata,Kolkata Metro,40.5,2,34,24/10/1984,#70,Southern Asia
+Philippines ,Manila,Manila Light Rail Transit System,37.2,2,31,01/12/1984,#71,Southern Asia
+China,Tianjin,Tianjin Metro,267,8,184,28/12/1984,#72,Eastern Asia
+Brazil,Recife,Recife Metro,43.8,3,29,11/03/1985,#74,South America
+South Korea,Busan,Busan Metro,205.6,6,158,19/07/1985,#75,Eastern Asia
+Russia,Nizhny Novgorod,Nizhny Novgorod Metro,21.6,2,15,20/11/1985,#76,Western Asia
+Canada,Vancouver,SkyTrain,79.6,3,53,11/12/1985,#77,North America
+Russia,Novosibirsk ,Novosibirsk Metro,15.9,2,13,07/01/1986,#78,Central Asia
+Brazil,Belo Horizonte,Belo Horizonte Metro,28.1,1,19,01/08/1986,#79,South America
+Japan,Sendai,Sendai Subway,28.7,2,30,15/07/1987,#80,Eastern Asia
+United Kingdom,London,Docklands Light Railway,38,7,45,31/08/1987,#81,Western Europe
+Egypt,Cairo,Cairo Metro,93.1,3,78,27/09/1987,#82,Northern Africa
+Singapore,Singapore,Mass Rapid Transit,216,6,151,07/11/1987,#83,Southern Asia
+Russia,Samara,Samara Metro,12.7,1,10,26/12/1987,#84,Western Asia
+Mexico,Guadalajara,Tren Eléctrico Urbano,24,2,29,01/09/1989,#85,Central America
+Turkey,Istanbul,Istanbul Metro,136.6,8,107,03/09/1989,#86,Southern Europe
+Italy,Genoa,Genoa Metro,7.1,1,8,13/06/1990,#87,Western Europe
+Mexico,Monterrey,Metrorrey,40.5,3,38,25/04/1991,#88,Central America
+Russia,Yekaterinburg,Yekaterinburg Metro,12.7,1,9,26/04/1991,#89,Western Asia
+Italy,Naples,Naples Metro,20.5,2,23,28/03/1993,#90,Southern Europe
+China,Shanghai,Shanghai Metro,832,20,508,28/05/1993,#91,Eastern Asia
+France,Toulouse,Toulouse Metro,28.2,2,37,26/06/1993,#92,Western Europe
+USA,Los Angeles,Metro Rail,175,6,103,14/07/1993,#93,North America
+South Korea,Seoul,Korail Metro Lines,151.7,5,86,01/04/1994,#94,Eastern Asia
+Japan,Hiroshima,Astram Line,18.4,1,22,20/08/1994,#95,Eastern Asia
+Poland ,Warsaw,Warsaw Metro,38.2,2,36,07/04/1995,#96,Eastern Europe
+Spain,Bilbao,Metro Bilbao,51,3,48,11/11/1995,#97,Western Europe
+Colombia,Medellin,Medellin Metro,31.3,2,27,30/11/1995,#98,South America
+Ukraine,Dnipro,Dnipro Metro,7.1,1,6,29/12/1995,#99,Eastern Europe
+Taiwan,Taipei,Taipei Metro,146.2,6,132,28/03/1996,#100,Eastern Asia
+Japan,Tokyo,Rinkai Line,12.2,1,8,30/03/1996,#101,Eastern Asia
+Malaysia,Kuala Lumpur,Rapid KL,210.4,7,156,16/12/1996,#102,Southern Asia
+China,Guangzhou,Guangzhou Metro,621,15,302,28/06/1997,#103,Eastern Asia
+South Korea,Daegu,Daegu Metro,83.7,3,91,26/11/1997,#104,Eastern Asia
+Turkey,Ankara,Ankara Metro,64.4,3,56,29/12/1997,#105,Western Asia
+Bulgaria,Sofia,Sofia Metro,52,4,47,28/01/1998,#106,Eastern Europe
+Iran,Karaj,Karaj Metro,55,2,11,07/03/1999,#107,Western Asia
+Italy,Catania,Catania Metro,8.8,1,10,27/06/1999,#108,Southern Europe
+South Korea,Incheon,Incheon Subway,59.4,2,56,06/10/1999,#109,Eastern Asia
+Thailand,Bangkok,BTS Skytrain,70,3,64,05/12/1999,#110,Southern Asia
+Philippines,Manila,Manila Metro Rail Transit System,16.9,1,13,15/12/1999,#111,Southern Asia
+Iran,Tehran,Tehran Metro,281.9,7,159,02/03/2000,#112,Western Asia
+Turkey,Izmir,Izmir Metro,20,1,17,22/04/2000,#113,Southern Europe
+Brazil,Brasilia,Brasilia Metro,42.4,2,24,31/03/2001,#114,South America
+France,Rennes,Rennes Metro,9.4,1,15,15/04/2002,#115,Western Europe
+Turkey,Bursa,Bursaray,38.9,2,39,24/04/2002,#116,Southern Europe
+Denmark,Copenhagen,Copenhagen Metro,38.2,4,39,19/10/2002,#117,Northern Europe
+China,Changchun,Changchun Rail Transit,72.6,4,63,30/10/2002,#118,Eastern Asia
+India,Delhi,Delhi Metro,348.1,10,255,24/12/2002,#119,Central Asia
+China,Dalian,Dalian Metro,201,5,81,08/11/2003,#120,Eastern Asia
+Japan,Yokohama,Minatomirai Line,4.1,1,6,01/02/2004,#121,Eastern Asia
+South Korea,Gwangju,Gwangju Metro,20.1,1,20,28/04/2004,#122,Eastern Asia
+Thailand,Bangkok,Metropolitan Rapid Transit,70.6,2,53,03/07/2004,#123,Southern Asia
+China,Wuhan,Wuhan Metro,435.2,11,282,28/07/2004,#124,Eastern Asia
+USA,San Juan,Tren Urbano,17.2,1,16,17/12/2004,#125,Central America
+China,Shenzhen,Shenzhen Metro,419,12,289,28/12/2004,#126,Eastern Asia
+Russia,Kazan,Kazan Metro,16.8,1,11,27/08/2005,#127,Western Asia
+China,Nanjing,Nanjing Metro,427,11,191,03/09/2005,#128,Eastern Asia
+China,Chonqing,Chonqing rail Transit,432.8,10,256,06/11/2005,#129,Eastern Asia
+Italy,Turin,Turin Metro,15.1,1,23,04/02/2006,#130,Western Europe
+South Korea,Daejeon,Daejeon Metro,22.7,1,22,16/03/2006,#131,Eastern Asia
+Taiwan,Kaohsiung,Kaohsiung Rapid Transit,42.7,2,37,09/03/2008,#132,Eastern Asia
+Switzerland,Lausanne,Lausanne Métro,5.9,1,14,27/10/2008,#133,Western Europe
+Turkey,Adana,Adana Metro,13.9,1,13,18/03/2009,#134,Western Asia
+UAE,Dubai,Dubai Metro,89.6,2,53,09/09/2009,#135,Western Asia
+Dominican Republic,Santo Domingo,Santo Domingo Metro,31,2,33,22/12/2009,#136,Central America
+China,Shenyang,Shenyang Metro,116.5,4,92,27/09/2010,#137,Eastern Asia
+China,Chengdu,Chengdu Metro,518.5,12,333,27/09/2010,#138,Eastern Asia
+China,Foshan,Foshan Metro,71.9,2,41,03/11/2010,#139,Eastern Asia
+Iran,Mashhad,Mashhad Urban Railway,37.5,2,35,12/03/2011,#140,Central Asia
+Peru,Lima,Lima Metro,34.6,1,26,11/07/2011,#141,South America
+China,Xi’an,Xi’an Metro,259,8,174,16/09/2011,#142,Eastern Asia
+India,Bengaluru,Namma Metro,56.1,2,51,20/10/2011,#143,Southern Asia
+South Korea,Seoul,Shinbundang Line,33.7,1,16,28/10/2011,#144,Eastern Asia
+Algeria,Algiers,Algiers Metro,18.5,1,19,01/11/2011,#145,Northern Africa
+Kazakhstan,Almaty,Almaty Metro,13.4,1,11,01/12/2011,#146,Central Asia
+China,Suzhou,Suzhou Rail Transit,210.8,5,168,28/04/2012,#147,Eastern Asia
+China,Kunming,Kunming Metro,184.1,6,114,28/06/2012,#148,Eastern Asia
+Brazil,Fortaleza,Fortaleza Metro,24.1,1,20,24/10/2012,#149,South America
+China,Hangzhou,Hangzhou Metro,451,11,278,24/11/2012,#150,Eastern Asia
+Italy ,Brescia,Brescia Metro,13.7,1,17,02/03/2013,#151,Western Europe
+China,Harbin,Harbin Metro,79,3,63,26/09/2013,#152,Eastern Asia
+India,Gurugram,Rapid Metro Gurugram,12.9,1,11,14/11/2013,#153,Central Asia
+China,Zhengzhou,Zhengzhou Metro,215.5,7,149,28/12/2013,#154,Eastern Asia
+Panama,Panama City,Panama Metro,36.8,2,29,06/04/2014,#155,Central America
+China,Changsha,Changsha Metro,209,7,145,29/04/2014,#156,Eastern Asia
+China,Ningbo,Ningbo Rail Transit,182.5,5,125,30/05/2014,#157,Eastern Asia
+India,Mumbai,Mumbai Metro,30.7,3,31,08/06/2014,#158,Southern Asia
+Brazil,Salvador,Salvador Metro,32.5,2,9,11/06/2014,#159,South America
+China,Wuxi,Wuxi Metro,114.8,4,87,01/07/2014,#160,Eastern Asia
+Iran,Shiraz,Shiraz Metro,24.5,1,20,11/10/2014,#161,Western Asia
+India,Jaipur,Jaipur Metro,12,1,11,03/06/2015,#162,Central Asia
+India,Chennai,Chennai Metro,54.7,2,42,29/06/2015,#163,Southern Asia
+Iran,Tabriz,Tabriz Metro,17.2,1,18,27/08/2015,#164,Western Asia
+Iran,Isfahan,Isfahan Urban Railway,20.2,1,20,15/10/2015,#165,Western Asia
+China,Qingdao,Qingdao Metro,284.3,6,138,16/12/2015,#166,Eastern Asia
+China,Nanchang,Nanchang Metro,128.6,4,103,26/12/2015,#167,Eastern Asia
+China,Fuzhou,Fuzhou Metro,82.8,3,64,18/05/2016,#168,Eastern Asia
+China,Dongguan,Dongguan Rail Transit,37.8,1,15,27/05/2016,#169,Eastern Asia
+China,Nanning,Nanning Metro,128.2,5,104,28/06/2016,#170,Eastern Asia
+China,Hefei,Hefei Metro,156.2,5,131,26/12/2016,#171,Eastern Asia
+Taiwan,Taoyuan ,Taoyuan Metro,51,1,21,02/03/2017,#172,Eastern Asia
+India,Kochi,Kochi Metro,24.9,1,22,17/06/2017,#173,Southern Asia
+China,Shijiazhuang,Shijiazhuang Metro,76.5,3,63,26/06/2017,#174,Eastern Asia
+India,Lucknow,Lucknow Metro,22.9,1,21,05/09/2017,#175,Central Asia
+India,Hyderabad,Hyderabad Metro,66.5,3,60,29/11/2017,#176,Southern Asia
+China,Guiyang,Guiyang Metro,75.7,2,57,28/12/2017,#177,Eastern Asia
+China,Xiamen,Xiamen Metro,98.4,3,70,31/12/2017,#178,Eastern Asia
+China,Ürümqi,Ürümqi Metro,27.6,1,21,25/10/2018,#179,Central Asia
+China,Wenzhou,Wenzhou Rail Transit,53.5,1,18,23/01/2019,#180,Eastern Asia
+India,Noida,Noida Metro,29.7,1,21,25/01/2019,#181,Central Asia
+India,Ahmedabad,Ahmedabad-Gandhinagar Metro Link,6.5,1,6,04/03/2019,#182,Central Asia
+India,Nagpur,Nagpur Metro Rail,26.6,2,23,08/03/2019,#183,Central Asia
+Indonesia,Jakarta,Jakarta MRT,15.7,1,13,24/03/2019,#184,Southern Asia
+China,Jinan,Jinan Metro,84.3,3,42,01/04/2019,#185,Eastern Asia
+Qatar,Doha,Doha Metro,76,3,40,08/05/2019,#186,Western Asia
+Australia,Sydney,Sydney Metro,36,1,13,26/05/2019,#187,Central Oceania
+China,Lanzhou,Lanzhou Metro,25.9,1,20,23/06/2019,#188,Eastern Asia
+China,Changzhou,Changzhou Metro,54.2,2,43,21/09/2019,#189,Eastern Asia
+China,Xuzhou,Xuzhou Metro,64.3,3,51,28/09/2019,#190,Eastern Asia
+China,Macau,Macau Light Rapid Transit,9.3,1,11,10/12/2019,#191,Eastern Asia
+China,Hohhot,Hohhot Metro,49,2,43,29/12/2019,#192,Eastern Asia
+Pakistan,Lahore,Lahore Metro,27.1,1,26,25/10/2020,#193,Central Asia
+China,Taiyuan,Taiyuan Metro,23.1,1,23,26/12/2020,#194,Eastern Asia
+China,Luoyang,Luoyang Subway,43.5,2,33,28/03/2021,#195,Eastern Asia
+Taiwan,Taichung,Taichung Metro,16.7,1,18,25/04/2021,#196,Eastern Asia
+China,Shaoxing,Shaoxing Metro,47.1,1,28,28/06/2021,#197,Eastern Asia
+China,Wuhu,Wuhu Rail Transit,46.2,2,35,03/11/2021,#198,Eastern Asia
+Vietnam,Hanoi,Hanoi Metro,13.1,1,12,06/11/2021,#199,Southern Asia
+India,Kanpur,Kanpur Metro,9,1,9,28/12/2021,#200,Central Asia
+China,Jinhua,Jinhua Metro,58.1,2,30,11/01/2022,#201,Eastern Asia
+India,Pune,Pune Metro,12,2,10,06/03/2022,#202,Southern Asia
+China,Jinhua,Jinhua Rail Transit,118.5,2,32,30/08/2022,#203,Eastern Asia
+China,Nantong,Nantong Rail Transit,60,2,43,10/11/2022,#204,Eastern Asia
+China,Taizhou,Taizhou Rail Transit,52.4,1,15,28/12/2022,#205,Eastern Asia
+Bangladesh,Dhaka,Dhaka Metro Rail,20.1,1,16,29/12/2022,#206,Southern Asia
+USA,Honolulu,Skyline,25.9,1,13,30/06/2023,#207,Eastern Oceania
+Canada,Montreal,Réseau Express Métropolitain,50,1,19,31/07/2023,#208,North America
+Indonesia,Jakarta,Jabodebek LRT,44.5,2,18,28/08/2023,#209,Southern Asia
+Nigeria,Lagos,Lagos Rail Mass Transit,13,2,13,04/09/2023,#210,Western Africa
+India,Navi Mumbai,Navi Mumbai Metro,11.1,1,11,17/11/2023,#211,Southern Asia
+Ecuador,Quito,Quito Metro,22.6,1,15,01/12/2023,#212,South America
+India,Agra,Agra Metro,5.2,1,6,06/03/2024,#213,Southern Asia
+Greece,Thessaloniki,Thessaloniki Metro,9.6,1,13,30/11/2024,#214,Southern Europe
+Saudi Arabia,Riyadh,Riyadh Metro,176,6,85,01/12/2024,#215,Western Asia
+Vietnam,Ho Chi Minh City,HCMC Metro,19.7,1,14,22/12/2024,#216,Southern Asia
+India,Indore,Indore Metro,6,1,5,31/05/2025,#217,Southern Asia
+India,Patna,Patna Metro,4.3,1,3,06/10/2025,#218,Southern Asia
