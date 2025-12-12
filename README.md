@@ -14,3 +14,7 @@ Database includes:
   - World Region (Geographically)
 
 Included in the repo as a csv file, originally created manually in Numbers (Apple).
+
+Below is a link to the tableau visualization that I will also include as a file in the files sections:
+
+https://public.tableau.com/views/WorldsMetros2025/WorldsMetrosDatabase?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
