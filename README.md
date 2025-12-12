@@ -1,7 +1,7 @@
 # World-s-Metro-Systems-Database
 A database of the world's metro systems (with some extra info)
 
-Created using private third-party sources, updated with Wikipedia Tables.
+Created using private third-party sources, last few entries updated with information from Wikipedia Tables.
 Database includes:
   - Country
   - City
